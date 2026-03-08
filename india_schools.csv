@@ -1,0 +1,248 @@
+s_no,name,city,state,board
+1,Rishi Valley School Chittoor,Chittoor,Andhra Pradesh,ICSE
+2,Narayana School Nellore,Nellore,Andhra Pradesh,CBSE
+3,Delhi Public School Tirupati,Tirupati,Andhra Pradesh,CBSE
+4,Kendriya Vidyalaya Tirupati,Tirupati,Andhra Pradesh,CBSE
+5,Delhi Public School Vijayawada,Vijayawada,Andhra Pradesh,CBSE
+6,Delhi Public School Visakhapatnam,Visakhapatnam,Andhra Pradesh,CBSE
+7,Kendriya Vidyalaya Visakhapatnam,Visakhapatnam,Andhra Pradesh,CBSE
+8,Sri Prakash Vidyaniketan Visakhapatnam,Visakhapatnam,Andhra Pradesh,CBSE
+9,Kendriya Vidyalaya Itanagar,Itanagar,Arunachal Pradesh,CBSE
+10,Delhi Public School Guwahati,Guwahati,Assam,CBSE
+11,Don Bosco School Guwahati,Guwahati,Assam,ICSE
+12,Jawahar Navodaya Vidyalaya Kamrup,Guwahati,Assam,CBSE
+13,Kendriya Vidyalaya Guwahati,Guwahati,Assam,CBSE
+14,Delhi Public School Patna,Patna,Bihar,CBSE
+15,Kendriya Vidyalaya Patna,Patna,Bihar,CBSE
+16,Loyola High School Patna,Patna,Bihar,ICSE
+17,St. Karen's High School Patna,Patna,Bihar,ICSE
+18,Bhavan Vidyalaya Chandigarh,Chandigarh,Chandigarh,CBSE
+19,Delhi Public School Chandigarh,Chandigarh,Chandigarh,CBSE
+20,Kendriya Vidyalaya Sector 47 Chandigarh,Chandigarh,Chandigarh,CBSE
+21,Sacred Heart School Chandigarh,Chandigarh,Chandigarh,ICSE
+22,St. John's High School Chandigarh,Chandigarh,Chandigarh,CBSE
+23,Delhi Public School Raipur,Raipur,Chhattisgarh,CBSE
+24,Kendriya Vidyalaya Raipur,Raipur,Chhattisgarh,CBSE
+25,St. Xavier's High School Raipur,Raipur,Chhattisgarh,ICSE
+26,American Embassy School New Delhi,New Delhi,Delhi,IB
+27,Amity International School Saket,New Delhi,Delhi,CBSE
+28,Army Public School Dhaula Kuan,New Delhi,Delhi,CBSE
+29,Bal Bharati Public School Pitampura,New Delhi,Delhi,CBSE
+30,Delhi Public School Dwarka,New Delhi,Delhi,CBSE
+31,Delhi Public School East of Kailash,New Delhi,Delhi,CBSE
+32,Delhi Public School Mathura Road,New Delhi,Delhi,CBSE
+33,Delhi Public School Pusa Road,New Delhi,Delhi,CBSE
+34,Delhi Public School R.K. Puram,New Delhi,Delhi,CBSE
+35,Delhi Public School Rohini,New Delhi,Delhi,CBSE
+36,Delhi Public School Vasant Kunj,New Delhi,Delhi,CBSE
+37,Frank Anthony Public School,New Delhi,Delhi,ICSE
+38,Kendriya Vidyalaya Andrews Ganj,New Delhi,Delhi,CBSE
+39,Kendriya Vidyalaya JNU Campus,New Delhi,Delhi,CBSE
+40,Kendriya Vidyalaya Pusa,New Delhi,Delhi,CBSE
+41,Kendriya Vidyalaya RK Puram,New Delhi,Delhi,CBSE
+42,Modern School Barakhamba Road,New Delhi,Delhi,CBSE
+43,Modern School Vasant Vihar,New Delhi,Delhi,CBSE
+44,Mother's International School,New Delhi,Delhi,CBSE
+45,Ryan International School Vasant Kunj,New Delhi,Delhi,CBSE
+46,Sanskriti School,New Delhi,Delhi,CBSE
+47,Sardar Patel Vidyalaya,New Delhi,Delhi,CBSE
+48,Springdales School Dhaula Kuan,New Delhi,Delhi,CBSE
+49,Springdales School Pusa Road,New Delhi,Delhi,CBSE
+50,St. Columba's School,New Delhi,Delhi,CBSE
+51,The British School New Delhi,New Delhi,Delhi,IB
+52,The Sriram School Moulsari,New Delhi,Delhi,CBSE
+53,Vasant Valley School,New Delhi,Delhi,CBSE
+54,Delhi Public School Goa,Panaji,Goa,CBSE
+55,Kendriya Vidyalaya Panaji,Panaji,Goa,CBSE
+56,Vidya Prabodhini College School Goa,Panaji,Goa,CBSE
+57,Anand Niketan School Ahmedabad,Ahmedabad,Gujarat,CBSE
+58,DAV International School Ahmedabad,Ahmedabad,Gujarat,CBSE
+59,Delhi Public School Bopal,Ahmedabad,Gujarat,CBSE
+60,Kendriya Vidyalaya Ahmedabad,Ahmedabad,Gujarat,CBSE
+61,Udgam School for Children Ahmedabad,Ahmedabad,Gujarat,CBSE
+62,Zydus School for Excellence,Ahmedabad,Gujarat,CBSE
+63,Delhi Public School Gandhinagar,Gandhinagar,Gujarat,CBSE
+64,Rajkumar College Rajkot,Rajkot,Gujarat,CBSE
+65,Delhi Public School Surat,Surat,Gujarat,CBSE
+66,Kendriya Vidyalaya Surat,Surat,Gujarat,CBSE
+67,Billabong High International School Vadodara,Vadodara,Gujarat,CBSE
+68,Delhi Public School Vadodara,Vadodara,Gujarat,CBSE
+69,Kendriya Vidyalaya Vadodara,Vadodara,Gujarat,CBSE
+70,Delhi Public School Faridabad,Faridabad,Haryana,CBSE
+71,Bishambhar Dayal School Gurgaon,Gurugram,Haryana,CBSE
+72,Delhi Public School Gurgaon,Gurugram,Haryana,CBSE
+73,Delhi Public School Sector 45 Gurgaon,Gurugram,Haryana,CBSE
+74,GD Goenka World School,Gurugram,Haryana,CBSE
+75,Delhi Public School Karnal,Karnal,Haryana,CBSE
+76,The Heritage School Rohtak,Rohtak,Haryana,CBSE
+77,Bishop Cotton School Shimla,Shimla,Himachal Pradesh,CBSE
+78,Kendriya Vidyalaya Shimla,Shimla,Himachal Pradesh,CBSE
+79,Pinewood Hotel School Shimla,Shimla,Himachal Pradesh,CBSE
+80,Tara Hall School Shimla,Shimla,Himachal Pradesh,ICSE
+81,Barcroft School Solan,Solan,Himachal Pradesh,CBSE
+82,Lawrence School Sanawar,Solan,Himachal Pradesh,CBSE
+83,Delhi Public School Jammu,Jammu,Jammu & Kashmir,CBSE
+84,Kendriya Vidyalaya Jammu,Jammu,Jammu & Kashmir,CBSE
+85,Burn Hall School Srinagar,Srinagar,Jammu & Kashmir,ICSE
+86,Presentation Convent School Srinagar,Srinagar,Jammu & Kashmir,ICSE
+87,Delhi Public School Dhanbad,Dhanbad,Jharkhand,CBSE
+88,DAV Public School Jamshedpur,Jamshedpur,Jharkhand,CBSE
+89,Loyola School Jamshedpur,Jamshedpur,Jharkhand,ICSE
+90,Kendriya Vidyalaya Ranchi,Ranchi,Jharkhand,CBSE
+91,Bishop Cotton Boys School,Bangalore,Karnataka,ICSE
+92,Delhi Public School Bangalore East,Bangalore,Karnataka,CBSE
+93,Delhi Public School Bangalore South,Bangalore,Karnataka,CBSE
+94,Greenwood High International School,Bangalore,Karnataka,CBSE
+95,Indus International School Bangalore,Bangalore,Karnataka,IB
+96,Inventure Academy,Bangalore,Karnataka,CBSE
+97,Kendriya Vidyalaya Sadashivanagar,Bangalore,Karnataka,CBSE
+98,Mahindra World School Bangalore,Bangalore,Karnataka,IB
+99,National Hill View Public School Bangalore,Bangalore,Karnataka,CBSE
+100,National Public School Indiranagar,Bangalore,Karnataka,CBSE
+101,Ryan International School Bangalore,Bangalore,Karnataka,CBSE
+102,Stonehill International School,Bangalore,Karnataka,IB
+103,The International School Bangalore,Bangalore,Karnataka,IB
+104,The Valley School Bangalore,Bangalore,Karnataka,CBSE
+105,Vidya Niketan School Bangalore,Bangalore,Karnataka,CBSE
+106,Delhi Public School Mysore,Mysore,Karnataka,CBSE
+107,Kendriya Vidyalaya Mysore,Mysore,Karnataka,CBSE
+108,Bhavans Vidya Mandir Elamakkara Kochi,Kochi,Kerala,CBSE
+109,Choice School Kochi,Kochi,Kerala,CBSE
+110,Delhi Public School Kochi,Kochi,Kerala,CBSE
+111,Kendriya Vidyalaya Ernakulam,Kochi,Kerala,CBSE
+112,St. Teresa's Girls Higher Secondary School Kochi,Kochi,Kerala,ICSE
+113,Bhavans Adarsha Vidyalaya Kozhikode,Kozhikode,Kerala,CBSE
+114,Kendriya Vidyalaya Kozhikode,Kozhikode,Kerala,CBSE
+115,Kendriya Vidyalaya NIT Calicut,Kozhikode,Kerala,CBSE
+116,Delhi Public School Thiruvananthapuram,Thiruvananthapuram,Kerala,CBSE
+117,Loyola School Thiruvananthapuram,Thiruvananthapuram,Kerala,ICSE
+118,Delhi Public School Bhopal,Bhopal,Madhya Pradesh,CBSE
+119,Kendriya Vidyalaya Bhopal,Bhopal,Madhya Pradesh,CBSE
+120,Kendriya Vidyalaya No 1 Bhopal,Bhopal,Madhya Pradesh,CBSE
+121,Scindia School Gwalior,Gwalior,Madhya Pradesh,CBSE
+122,St. Raphael Higher Secondary School Gwalior,Gwalior,Madhya Pradesh,CBSE
+123,Choithram School Indore,Indore,Madhya Pradesh,CBSE
+124,Delhi Public School Indore,Indore,Madhya Pradesh,CBSE
+125,Emerald Heights International School,Indore,Madhya Pradesh,CBSE
+126,St. Paul Higher Secondary School Indore,Indore,Madhya Pradesh,ICSE
+127,Delhi Public School Jabalpur,Jabalpur,Madhya Pradesh,CBSE
+128,Delhi Public School Aurangabad,Aurangabad,Maharashtra,CBSE
+129,Bombay Scottish School,Mumbai,Maharashtra,ICSE
+130,Campion School Mumbai,Mumbai,Maharashtra,ICSE
+131,Cathedral and John Connon School,Mumbai,Maharashtra,ICSE
+132,DAV Public School Mumbai,Mumbai,Maharashtra,CBSE
+133,Dhirubhai Ambani International School,Mumbai,Maharashtra,IB
+134,Ecole Mondiale World School,Mumbai,Maharashtra,IB
+135,Greenlawns High School,Mumbai,Maharashtra,ICSE
+136,Gundecha Education Academy Mumbai,Mumbai,Maharashtra,CBSE
+137,Jamnabai Narsee School,Mumbai,Maharashtra,CBSE
+138,Podar International School Santacruz,Mumbai,Maharashtra,CBSE
+139,Rustomjee International School Mumbai,Mumbai,Maharashtra,IB
+140,Ryan International School Kandivali,Mumbai,Maharashtra,CBSE
+141,St. Xavier's High School Fort,Mumbai,Maharashtra,ICSE
+142,The Oberoi International School,Mumbai,Maharashtra,IB
+143,Vibgyor High School Mumbai,Mumbai,Maharashtra,CBSE
+144,Delhi Public School Nagpur,Nagpur,Maharashtra,CBSE
+145,Kendriya Vidyalaya Nagpur,Nagpur,Maharashtra,CBSE
+146,Bishops School Pune,Pune,Maharashtra,ICSE
+147,Delhi Public School Pune,Pune,Maharashtra,CBSE
+148,Kendriya Vidyalaya No 2 Pune,Pune,Maharashtra,CBSE
+149,Mercedes-Benz International School,Pune,Maharashtra,IB
+150,St. Mary's ICSE School Pune,Pune,Maharashtra,ICSE
+151,St. Vincent's High School Pune,Pune,Maharashtra,ICSE
+152,Symbiosis School Pune,Pune,Maharashtra,CBSE
+153,The Orchid School Pune,Pune,Maharashtra,CBSE
+154,Kendriya Vidyalaya Imphal,Imphal,Manipur,CBSE
+155,Kendriya Vidyalaya Shillong,Shillong,Meghalaya,CBSE
+156,St. Edmund's College Shillong,Shillong,Meghalaya,CBSE
+157,Kendriya Vidyalaya Aizawl,Aizawl,Mizoram,CBSE
+158,Kendriya Vidyalaya Dimapur,Dimapur,Nagaland,CBSE
+159,DAV Public School Bhubaneswar,Bhubaneswar,Odisha,CBSE
+160,Delhi Public School Bhubaneswar,Bhubaneswar,Odisha,CBSE
+161,Kendriya Vidyalaya IIT Bhubaneswar,Bhubaneswar,Odisha,CBSE
+162,Stewart School Cuttack,Cuttack,Odisha,ICSE
+163,Delhi Public School Amritsar,Amritsar,Punjab,CBSE
+164,DAV Public School Ludhiana,Ludhiana,Punjab,CBSE
+165,Yadavindra Public School Patiala,Patiala,Punjab,CBSE
+166,Mayo College Ajmer,Ajmer,Rajasthan,CBSE
+167,Delhi Public School Jaipur,Jaipur,Rajasthan,CBSE
+168,Jayshree Periwal International School,Jaipur,Rajasthan,CBSE
+169,Kendriya Vidyalaya Jaipur,Jaipur,Rajasthan,CBSE
+170,Kendriya Vidyalaya NIT Jaipur,Jaipur,Rajasthan,CBSE
+171,Maharaja Sawai Man Singh Vidyalaya Jaipur,Jaipur,Rajasthan,CBSE
+172,St. Xavier's School Jaipur,Jaipur,Rajasthan,ICSE
+173,Delhi Public School Jodhpur,Jodhpur,Rajasthan,CBSE
+174,Tagore International School Udaipur,Udaipur,Rajasthan,CBSE
+175,Kendriya Vidyalaya Gangtok,Gangtok,Sikkim,CBSE
+176,Chettinad Vidyashram,Chennai,Tamil Nadu,CBSE
+177,Chettinad Vidyashram Chennai,Chennai,Tamil Nadu,CBSE
+178,Delhi Public School Chennai,Chennai,Tamil Nadu,CBSE
+179,Kendriya Vidyalaya IIT Chennai,Chennai,Tamil Nadu,CBSE
+180,Kendriya Vidyalaya IIT Madras,Chennai,Tamil Nadu,CBSE
+181,PSBB Millennium School,Chennai,Tamil Nadu,CBSE
+182,Padma Seshadri Bala Bhavan,Chennai,Tamil Nadu,CBSE
+183,SBOA School and Junior College Chennai,Chennai,Tamil Nadu,CBSE
+184,St. Bede's Anglo-Indian Higher Secondary School Chennai,Chennai,Tamil Nadu,ICSE
+185,The PSBB Millennium School Gerugambakkam,Chennai,Tamil Nadu,CBSE
+186,Delhi Public School Coimbatore,Coimbatore,Tamil Nadu,CBSE
+187,Jawahar Navodaya Vidyalaya Coimbatore,Coimbatore,Tamil Nadu,CBSE
+188,Stanes Anglo-Indian Higher Secondary School Coimbatore,Coimbatore,Tamil Nadu,ICSE
+189,The Titan School Hosur,Hosur,Tamil Nadu,CBSE
+190,Kodaikanal International School,Kodaikanal,Tamil Nadu,IB
+191,Residential Public School Kodaikanal,Kodaikanal,Tamil Nadu,ICSE
+192,Ooty Boys Higher Secondary School,Ooty,Tamil Nadu,CBSE
+193,Chirec Public School,Hyderabad,Telangana,CBSE
+194,Delhi Public School Kompally,Hyderabad,Telangana,CBSE
+195,Delhi Public School Nacharam,Hyderabad,Telangana,CBSE
+196,Hyderabad Public School Begumpet,Hyderabad,Telangana,CBSE
+197,Hyderabad Public School Ramanthapur,Hyderabad,Telangana,CBSE
+198,Kendriya Vidyalaya Hyderabad,Hyderabad,Telangana,CBSE
+199,Kendriya Vidyalaya Secunderabad,Hyderabad,Telangana,CBSE
+200,Meridian School Hyderabad,Hyderabad,Telangana,CBSE
+201,Narayana e-Techno School Hyderabad,Hyderabad,Telangana,CBSE
+202,Oakridge International School Hyderabad,Hyderabad,Telangana,IB
+203,Sri Chaitanya School Hyderabad,Hyderabad,Telangana,CBSE
+204,Kendriya Vidyalaya Agartala,Agartala,Tripura,CBSE
+205,Jawahar Navodaya Vidyalaya Agra,Agra,Uttar Pradesh,CBSE
+206,Delhi Public School Indirapuram,Ghaziabad,Uttar Pradesh,CBSE
+207,St. Joseph's Academy Mariam Nagar,Ghaziabad,Uttar Pradesh,ICSE
+208,Delhi Public School Kanpur,Kanpur,Uttar Pradesh,CBSE
+209,City Montessori School Lucknow,Lucknow,Uttar Pradesh,ICSE
+210,Colvin Taluqdars College Lucknow,Lucknow,Uttar Pradesh,ICSE
+211,Delhi Public School Lucknow,Lucknow,Uttar Pradesh,CBSE
+212,Kendriya Vidyalaya Lucknow,Lucknow,Uttar Pradesh,CBSE
+213,La Martiniere College Lucknow,Lucknow,Uttar Pradesh,ICSE
+214,Seth Anandram Jaipuria School Lucknow,Lucknow,Uttar Pradesh,CBSE
+215,Delhi Public School Mathura,Mathura,Uttar Pradesh,CBSE
+216,Amity International School Noida,Noida,Uttar Pradesh,CBSE
+217,Amity International School Saket Noida,Noida,Uttar Pradesh,CBSE
+218,Delhi Public School Noida,Noida,Uttar Pradesh,CBSE
+219,Genesis Global School Noida,Noida,Uttar Pradesh,CBSE
+220,Step by Step School Noida,Noida,Uttar Pradesh,CBSE
+221,The Shriram Millennium School Noida,Noida,Uttar Pradesh,CBSE
+222,St. Joseph's College Allahabad,Prayagraj,Uttar Pradesh,ICSE
+223,Delhi Public School Varanasi,Varanasi,Uttar Pradesh,CBSE
+224,EcoleGlobale International Girls School Dehradun,Dehradun,Uttarakhand,CBSE
+225,Guru Ram Rai Public School Dehradun,Dehradun,Uttarakhand,CBSE
+226,Kasiga School Dehradun,Dehradun,Uttarakhand,CBSE
+227,Kendriya Vidyalaya Dehradun,Dehradun,Uttarakhand,CBSE
+228,St. Joseph's Academy Dehradun,Dehradun,Uttarakhand,ICSE
+229,The Doon Girls School Dehradun,Dehradun,Uttarakhand,CBSE
+230,The Doon School,Dehradun,Uttarakhand,CBSE
+231,Welham Boys School,Dehradun,Uttarakhand,CBSE
+232,Welham Girls School,Dehradun,Uttarakhand,CBSE
+233,Oak Grove School Mussoorie,Mussoorie,Uttarakhand,CBSE
+234,Woodstock School Mussoorie,Mussoorie,Uttarakhand,CBSE
+235,Wynberg Allen School Mussoorie,Mussoorie,Uttarakhand,CBSE
+236,All Saints College Nainital,Nainital,Uttarakhand,ICSE
+237,Sherwood College Nainital,Nainital,Uttarakhand,ICSE
+238,Birla High School Kolkata,Kolkata,West Bengal,CBSE
+239,Calcutta International School,Kolkata,West Bengal,IB
+240,Delhi Public School Ruby Park Kolkata,Kolkata,West Bengal,CBSE
+241,Don Bosco School Park Circus Kolkata,Kolkata,West Bengal,ICSE
+242,Heritage School Kolkata,Kolkata,West Bengal,CBSE
+243,Kendriya Vidyalaya Ballygunge Kolkata,Kolkata,West Bengal,CBSE
+244,La Martiniere for Boys Kolkata,Kolkata,West Bengal,ICSE
+245,La Martiniere for Girls Kolkata,Kolkata,West Bengal,ICSE
+246,South Point High School,Kolkata,West Bengal,CBSE
+247,St. Xavier's Collegiate School Kolkata,Kolkata,West Bengal,ICSE

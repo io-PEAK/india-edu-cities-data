@@ -1,0 +1,52 @@
+{
+  "name": "india-edu-cities-data",
+  "version": "1.0.0",
+  "description": "Searchable database of 1,200+ Indian colleges/universities and 4,200+ cities across all 36 states & UTs. Zero dependencies.",
+  "keywords": [
+    "india",
+    "colleges",
+    "universities",
+    "iit",
+    "nit",
+    "iiit",
+    "iim",
+    "engineering",
+    "institutions",
+    "cities",
+    "states",
+    "indian colleges",
+    "education",
+    "geography"
+  ],
+  "author": "Naman Saini",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/io-PEAK/india-edu-cities-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/io-PEAK/india-edu-cities-data/issues"
+  },
+  "homepage": "https://github.com/io-PEAK/india-edu-cities-data#readme",
+  "main": "./src/index.js",
+  "module": "./src/index.mjs",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./src/index.mjs",
+      "require": "./src/index.js",
+      "types": "./src/index.d.ts"
+    }
+  },
+  "files": [
+    "src/",
+    "india_colleges.csv",
+    "india_cities.csv",
+    "india_schools.csv",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {}
+}
